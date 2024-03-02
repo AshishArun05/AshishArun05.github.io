@@ -1,0 +1,6037 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <title>Ashish Arun</title>
+    <link>https://endive-bagpipe-c8bd.squarespace.com</link>
+    <pubDate>Sat, 02 Mar 2024 05:31:08 +0000</pubDate>
+    <description />
+    <language>en-US</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:author>
+      <wp:author_id>717298278</wp:author_id>
+      <wp:author_login>ashisharun135@gmail.com</wp:author_login>
+      <wp:author_email>ashisharun135@gmail.com</wp:author_email>
+      <wp:author_display_name><![CDATA[Ashish Arun]]></wp:author_display_name>
+      <wp:author_first_name><![CDATA[Ashish]]></wp:author_first_name>
+      <wp:author_last_name><![CDATA[Arun]]></wp:author_last_name>
+    </wp:author>
+    <wp:category>
+      <wp:cat_name><![CDATA[null - null]]></wp:cat_name>
+      <wp:category_nicename>null-null</wp:category_nicename>
+      <wp:category_parent />
+    </wp:category>
+    <item>
+      <link>/home</link>
+      <title>Home</title>
+      <pubDate>Sat, 02 Mar 2024 06:36:38 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" id="sections" data-page-sections="65e2b9e580406d679e4c7000">
+  
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="white-bold"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+        section-height--custom
+      
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    
+    white-bold'
+  
+  data-section-id="65e2b9e580406d679e4c7004"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+  &quot;customSectionHeight&quot;: 1,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;backgroundColor&quot;: &quot;&quot;,
+  &quot;sectionTheme&quot;: &quot;white-bold&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;video&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+     style="min-height: 1vh;" 
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+        
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+          
+          
+          padding-top: calc(1vmax / 10); padding-bottom: calc(1vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-65e2b9e580406d679e4c7003 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(28,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-65e2b9e580406d679e4c7003 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-65e2b9e580406d679e4c7003 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(29,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-edfe4c1f72dcf572f059 {
+    grid-area: 1/2/4/10;
+    z-index: 3;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-edfe4c1f72dcf572f059 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-edfe4c1f72dcf572f059 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-edfe4c1f72dcf572f059 {
+      grid-area: 3/2/12/26;
+      z-index: 4;
+
+      
+    }
+
+    .fe-block-edfe4c1f72dcf572f059 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-edfe4c1f72dcf572f059 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-45bcea7caa0dedb44197 {
+    grid-area: 4/2/16/10;
+    z-index: 3;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-45bcea7caa0dedb44197 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-45bcea7caa0dedb44197 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-45bcea7caa0dedb44197 {
+      grid-area: 7/14/26/26;
+      z-index: 3;
+
+      
+    }
+
+    .fe-block-45bcea7caa0dedb44197 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-45bcea7caa0dedb44197 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-37d973003fe0e7c0199d {
+    grid-area: 16/2/19/10;
+    z-index: 4;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-37d973003fe0e7c0199d .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-37d973003fe0e7c0199d .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-37d973003fe0e7c0199d {
+      grid-area: 9/2/18/26;
+      z-index: 2;
+
+      
+    }
+
+    .fe-block-37d973003fe0e7c0199d .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-37d973003fe0e7c0199d .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-c1fc77553e9f96e195b5 {
+    grid-area: 19/2/26/10;
+    z-index: 3;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-c1fc77553e9f96e195b5 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-c1fc77553e9f96e195b5 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-c1fc77553e9f96e195b5 {
+      grid-area: 20/2/26/12;
+      z-index: 1;
+
+      
+    }
+
+    .fe-block-c1fc77553e9f96e195b5 .sqs-block {
+      justify-content: flex-end;
+    }
+
+    .fe-block-c1fc77553e9f96e195b5 .sqs-block-alignment-wrapper {
+      align-items: flex-end;
+    }
+  }
+
+  .fe-block-dbf2ec46d7db49b03d46 {
+    grid-area: 27/2/29/10;
+    z-index: 7;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-dbf2ec46d7db49b03d46 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-dbf2ec46d7db49b03d46 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-dbf2ec46d7db49b03d46 {
+      grid-area: 26/14/28/25;
+      z-index: 7;
+
+      
+    }
+
+    .fe-block-dbf2ec46d7db49b03d46 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-dbf2ec46d7db49b03d46 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-65e2b9e580406d679e4c7003"><div class="fe-block fe-block-edfe4c1f72dcf572f059"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-edfe4c1f72dcf572f059"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <div class="sqsrte-scaled-text-container"><span class="sqsrte-scaled-text"><h1 style="text-align:center;white-space:pre-wrap;"><span class="sqsrte-text-color--accent">PORTFOLIO</span></h1></span></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-45bcea7caa0dedb44197"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-block-type="5" id="block-45bcea7caa0dedb44197"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <button
+                class="sqs-block-image-button lightbox content-fit"
+                data-lightbox-theme="dark"
+              >
+                <span class="v6-visually-hidden"></span>
+                
+            
+            
+            
+            
+            
+            
+            <img data-stretch="false" src="https://images.squarespace-cdn.com/content/v1/65e2b99c74a3005f2a4ab916/57ec8fcb-6de4-4f7b-8e61-ad1fb293a7f7/DSC_0380.jpg" data-image="https://images.squarespace-cdn.com/content/v1/65e2b99c74a3005f2a4ab916/57ec8fcb-6de4-4f7b-8e61-ad1fb293a7f7/DSC_0380.jpg" data-image-dimensions="2047x3071" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/65e2b99c74a3005f2a4ab916/57ec8fcb-6de4-4f7b-8e61-ad1fb293a7f7/DSC_0380.jpg" width="2047" height="3071" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 50vw" style="display:block;object-fit: contain; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/65e2b99c74a3005f2a4ab916/57ec8fcb-6de4-4f7b-8e61-ad1fb293a7f7/DSC_0380.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/65e2b99c74a3005f2a4ab916/57ec8fcb-6de4-4f7b-8e61-ad1fb293a7f7/DSC_0380.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/65e2b99c74a3005f2a4ab916/57ec8fcb-6de4-4f7b-8e61-ad1fb293a7f7/DSC_0380.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/65e2b99c74a3005f2a4ab916/57ec8fcb-6de4-4f7b-8e61-ad1fb293a7f7/DSC_0380.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/65e2b99c74a3005f2a4ab916/57ec8fcb-6de4-4f7b-8e61-ad1fb293a7f7/DSC_0380.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/65e2b99c74a3005f2a4ab916/57ec8fcb-6de4-4f7b-8e61-ad1fb293a7f7/DSC_0380.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/65e2b99c74a3005f2a4ab916/57ec8fcb-6de4-4f7b-8e61-ad1fb293a7f7/DSC_0380.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </button>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      .sqs-block-image .sqs-block-content {
+        height: 100%;
+        width: 100%;
+      }
+
+      
+        .fe-block-45bcea7caa0dedb44197 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+                --image-block-overlay-color: 
+  
+    hsla(var(--darkAccent-hsl), 0.18)
+  
+
+;
+            
+          
+          
+            opacity: 1;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-37d973003fe0e7c0199d"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-37d973003fe0e7c0199d"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <div class="sqsrte-scaled-text-container"><span class="sqsrte-scaled-text"><h1 style="text-align:center;white-space:pre-wrap;"><span class="sqsrte-text-color--accent">PORTFOLIO</span></h1></span></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-c1fc77553e9f96e195b5"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-c1fc77553e9f96e195b5"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="sqsrte-large" style="white-space:pre-wrap;">I'm Pia, a stylist and creative based between New York and London. Before fashion, I was a journalist. After fashion, I'll be an icon.<br><br>I've been a resident of the fashion world for 12 years and counting. I've created, critiqued, consulted, styled, forecasted, and directed.</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-dbf2ec46d7db49b03d46"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-dbf2ec46d7db49b03d46"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;">Ashish Arun</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="light-bold"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--small
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    light-bold'
+  
+  data-section-id="65e2b9e580406d679e4c7007"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+  &quot;customSectionHeight&quot;: 10,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;backgroundColor&quot;: &quot;&quot;,
+  &quot;sectionTheme&quot;: &quot;light-bold&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+    
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-65e2b9e580406d679e4c7006 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(49,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-65e2b9e580406d679e4c7006 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-65e2b9e580406d679e4c7006 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(42,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-5236ea6601ec055a3ef7 {
+    grid-area: 1/2/3/10;
+    z-index: 6;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-5236ea6601ec055a3ef7 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-5236ea6601ec055a3ef7 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-5236ea6601ec055a3ef7 {
+      grid-area: 1/2/3/11;
+      z-index: 10;
+
+      
+    }
+
+    .fe-block-5236ea6601ec055a3ef7 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-5236ea6601ec055a3ef7 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-06172bd8f094eb6d64b6 {
+    grid-area: 3/2/7/6;
+    z-index: 1;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-06172bd8f094eb6d64b6 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-06172bd8f094eb6d64b6 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-06172bd8f094eb6d64b6 {
+      grid-area: 6/2/10/6;
+      z-index: 1;
+
+      
+    }
+
+    .fe-block-06172bd8f094eb6d64b6 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-06172bd8f094eb6d64b6 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-b7b221adf846315be821 {
+    grid-area: 3/6/7/10;
+    z-index: 3;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-b7b221adf846315be821 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-b7b221adf846315be821 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-b7b221adf846315be821 {
+      grid-area: 6/10/10/14;
+      z-index: 3;
+
+      
+    }
+
+    .fe-block-b7b221adf846315be821 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-b7b221adf846315be821 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-90799fd6d53f49932e5f {
+    grid-area: 7/6/11/10;
+    z-index: 6;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-90799fd6d53f49932e5f .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-90799fd6d53f49932e5f .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-90799fd6d53f49932e5f {
+      grid-area: 6/22/10/26;
+      z-index: 9;
+
+      
+    }
+
+    .fe-block-90799fd6d53f49932e5f .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-90799fd6d53f49932e5f .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-cf86c43aac0a30ef5d9d {
+    grid-area: 7/2/11/6;
+    z-index: 5;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-cf86c43aac0a30ef5d9d .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-cf86c43aac0a30ef5d9d .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-cf86c43aac0a30ef5d9d {
+      grid-area: 6/18/10/22;
+      z-index: 4;
+
+      
+    }
+
+    .fe-block-cf86c43aac0a30ef5d9d .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-cf86c43aac0a30ef5d9d .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-f56fb4d4902f74585aef {
+    grid-area: 12/2/20/10;
+    z-index: 9;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-f56fb4d4902f74585aef .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-f56fb4d4902f74585aef .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-f56fb4d4902f74585aef {
+      grid-area: 9/2/16/20;
+      z-index: 13;
+
+      
+    }
+
+    .fe-block-f56fb4d4902f74585aef .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-f56fb4d4902f74585aef .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-f55facd46b1d829c8b52 {
+    grid-area: 21/2/35/10;
+    z-index: 8;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-f55facd46b1d829c8b52 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-f55facd46b1d829c8b52 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-f55facd46b1d829c8b52 {
+      grid-area: 21/2/42/12;
+      z-index: 12;
+
+      
+    }
+
+    .fe-block-f55facd46b1d829c8b52 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-f55facd46b1d829c8b52 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-c822a6f5bdaee2f28dbd {
+    grid-area: 36/2/44/10;
+    z-index: 7;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-c822a6f5bdaee2f28dbd .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-c822a6f5bdaee2f28dbd .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-c822a6f5bdaee2f28dbd {
+      grid-area: 21/14/27/26;
+      z-index: 11;
+
+      
+    }
+
+    .fe-block-c822a6f5bdaee2f28dbd .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-c822a6f5bdaee2f28dbd .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-e509c1678b251c75b059 {
+    grid-area: 45/2/47/10;
+    z-index: 5;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-e509c1678b251c75b059 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-e509c1678b251c75b059 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-e509c1678b251c75b059 {
+      grid-area: 38/14/40/23;
+      z-index: 9;
+
+      
+    }
+
+    .fe-block-e509c1678b251c75b059 .sqs-block {
+      justify-content: flex-end;
+    }
+
+    .fe-block-e509c1678b251c75b059 .sqs-block-alignment-wrapper {
+      align-items: flex-end;
+    }
+  }
+
+  .fe-block-718ffc0284f419aa1ee3 {
+    grid-area: 47/2/49/10;
+    z-index: 6;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-718ffc0284f419aa1ee3 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-718ffc0284f419aa1ee3 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-718ffc0284f419aa1ee3 {
+      grid-area: 40/14/42/26;
+      z-index: 10;
+
+      
+    }
+
+    .fe-block-718ffc0284f419aa1ee3 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-718ffc0284f419aa1ee3 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-65e2b9e580406d679e4c7006"><div class="fe-block fe-block-5236ea6601ec055a3ef7"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-5236ea6601ec055a3ef7"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h2 style="white-space:pre-wrap;"><a href="/selectworks"><em>Select Works</em></a></h2>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-06172bd8f094eb6d64b6"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-aspect-ratio="71.29071951298491" data-block-type="5" id="block-06172bd8f094eb6d64b6"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            <a
+              class="sqs-block-image-link content-fill"
+              href="/203issue"
+              
+            >
+              
+            
+            
+            
+            
+            
+            
+            <img data-stretch="true" src="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/012fae2d-bdb1-4df9-a59c-8376ef4460f1/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/012fae2d-bdb1-4df9-a59c-8376ef4460f1/image-asset.jpeg" data-image-dimensions="1667x2500" data-image-focal-point="0.5,0.5" alt="woman in a black dress lying on the concrete ground outside" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/012fae2d-bdb1-4df9-a59c-8376ef4460f1/image-asset.jpeg" width="1667" height="2500" alt="" sizes="100vw" style="display:block;object-fit: cover; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/012fae2d-bdb1-4df9-a59c-8376ef4460f1/image-asset.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/012fae2d-bdb1-4df9-a59c-8376ef4460f1/image-asset.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/012fae2d-bdb1-4df9-a59c-8376ef4460f1/image-asset.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/012fae2d-bdb1-4df9-a59c-8376ef4460f1/image-asset.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/012fae2d-bdb1-4df9-a59c-8376ef4460f1/image-asset.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/012fae2d-bdb1-4df9-a59c-8376ef4460f1/image-asset.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/012fae2d-bdb1-4df9-a59c-8376ef4460f1/image-asset.jpeg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+            </a>
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      .sqs-block-image .sqs-block-content {
+        height: 100%;
+        width: 100%;
+      }
+
+      
+        .fe-block-06172bd8f094eb6d64b6 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-b7b221adf846315be821"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-aspect-ratio="67.45435016111708" data-block-type="5" id="block-b7b221adf846315be821"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            <a
+              class="sqs-block-image-link content-fill"
+              href="/sqspmagazine"
+              
+            >
+              
+            
+            
+            
+            
+            
+            
+            <img data-stretch="true" src="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/1ee4c237-7f37-45dd-95ae-7a5bf9079884/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/1ee4c237-7f37-45dd-95ae-7a5bf9079884/image-asset.jpeg" data-image-dimensions="1667x2500" data-image-focal-point="0.5,0.5" alt="woman outside waving her beige linen jacket" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/1ee4c237-7f37-45dd-95ae-7a5bf9079884/image-asset.jpeg" width="1667" height="2500" alt="" sizes="100vw" style="display:block;object-fit: cover; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/1ee4c237-7f37-45dd-95ae-7a5bf9079884/image-asset.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/1ee4c237-7f37-45dd-95ae-7a5bf9079884/image-asset.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/1ee4c237-7f37-45dd-95ae-7a5bf9079884/image-asset.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/1ee4c237-7f37-45dd-95ae-7a5bf9079884/image-asset.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/1ee4c237-7f37-45dd-95ae-7a5bf9079884/image-asset.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/1ee4c237-7f37-45dd-95ae-7a5bf9079884/image-asset.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/1ee4c237-7f37-45dd-95ae-7a5bf9079884/image-asset.jpeg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+            </a>
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      .sqs-block-image .sqs-block-content {
+        height: 100%;
+        width: 100%;
+      }
+
+      
+        .fe-block-b7b221adf846315be821 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-90799fd6d53f49932e5f"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-aspect-ratio="71.27415656731084" data-block-type="5" id="block-90799fd6d53f49932e5f"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            <a
+              class="sqs-block-image-link content-fill"
+              href="/streetstyle"
+              
+            >
+              
+            
+            
+            
+            
+            
+            
+            <img data-stretch="true" src="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/d548cdc5-8865-4aa3-beb8-bc2cd756096b/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/d548cdc5-8865-4aa3-beb8-bc2cd756096b/image-asset.jpeg" data-image-dimensions="1278x1800" data-image-focal-point="0.5,0.5" alt="woman in a grey suit walking away in front of a concrete building" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/d548cdc5-8865-4aa3-beb8-bc2cd756096b/image-asset.jpeg" width="1278" height="1800" alt="" sizes="100vw" style="display:block;object-fit: cover; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/d548cdc5-8865-4aa3-beb8-bc2cd756096b/image-asset.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/d548cdc5-8865-4aa3-beb8-bc2cd756096b/image-asset.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/d548cdc5-8865-4aa3-beb8-bc2cd756096b/image-asset.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/d548cdc5-8865-4aa3-beb8-bc2cd756096b/image-asset.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/d548cdc5-8865-4aa3-beb8-bc2cd756096b/image-asset.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/d548cdc5-8865-4aa3-beb8-bc2cd756096b/image-asset.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/d548cdc5-8865-4aa3-beb8-bc2cd756096b/image-asset.jpeg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+            </a>
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      .sqs-block-image .sqs-block-content {
+        height: 100%;
+        width: 100%;
+      }
+
+      
+        .fe-block-90799fd6d53f49932e5f .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-cf86c43aac0a30ef5d9d"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-aspect-ratio="71.27415656731084" data-block-type="5" id="block-cf86c43aac0a30ef5d9d"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            <a
+              class="sqs-block-image-link content-fill"
+              href="/editorialstyling"
+              
+            >
+              
+            
+            
+            
+            
+            
+            
+            <img data-stretch="true" src="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/a6ae607c-40ab-45b4-9973-5809920011dd/04.jpg" data-image="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/a6ae607c-40ab-45b4-9973-5809920011dd/04.jpg" data-image-dimensions="2500x1377" data-image-focal-point="0.5,0.5" alt="woman slouching on a stool in a long belted khaki jacket" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/a6ae607c-40ab-45b4-9973-5809920011dd/04.jpg" width="2500" height="1377" alt="" sizes="100vw" style="display:block;object-fit: cover; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/a6ae607c-40ab-45b4-9973-5809920011dd/04.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/a6ae607c-40ab-45b4-9973-5809920011dd/04.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/a6ae607c-40ab-45b4-9973-5809920011dd/04.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/a6ae607c-40ab-45b4-9973-5809920011dd/04.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/a6ae607c-40ab-45b4-9973-5809920011dd/04.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/a6ae607c-40ab-45b4-9973-5809920011dd/04.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/a6ae607c-40ab-45b4-9973-5809920011dd/04.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+            </a>
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      .sqs-block-image .sqs-block-content {
+        height: 100%;
+        width: 100%;
+      }
+
+      
+        .fe-block-cf86c43aac0a30ef5d9d .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-f56fb4d4902f74585aef"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-f56fb4d4902f74585aef"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <pre><code>203 Issue 
+SQSP Magazine
+Editorial Styling
+Street Photography</code></pre>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-f55facd46b1d829c8b52"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-aspect-ratio="146.22937121370379" data-block-type="5" id="block-f55facd46b1d829c8b52"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fill">
+                
+            
+            
+            
+            
+            
+            
+            <img data-stretch="true" src="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/492f5878-286c-4a6a-a2e9-eb07f23d47bc/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/492f5878-286c-4a6a-a2e9-eb07f23d47bc/image-asset.jpeg" data-image-dimensions="1218x1827" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/492f5878-286c-4a6a-a2e9-eb07f23d47bc/image-asset.jpeg" width="1218" height="1827" alt="" sizes="100vw" style="display:block;object-fit: cover; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/492f5878-286c-4a6a-a2e9-eb07f23d47bc/image-asset.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/492f5878-286c-4a6a-a2e9-eb07f23d47bc/image-asset.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/492f5878-286c-4a6a-a2e9-eb07f23d47bc/image-asset.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/492f5878-286c-4a6a-a2e9-eb07f23d47bc/image-asset.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/492f5878-286c-4a6a-a2e9-eb07f23d47bc/image-asset.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/492f5878-286c-4a6a-a2e9-eb07f23d47bc/image-asset.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/492f5878-286c-4a6a-a2e9-eb07f23d47bc/image-asset.jpeg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      .sqs-block-image .sqs-block-content {
+        height: 100%;
+        width: 100%;
+      }
+
+      
+        .fe-block-f55facd46b1d829c8b52 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-c822a6f5bdaee2f28dbd"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-c822a6f5bdaee2f28dbd"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="sqsrte-large" style="white-space:pre-wrap;">When I'm not styling and directing, I provide creative consulting for luxury fashion brands across the globe. My travels have inspired my first book project, a coffee table book featuring street photography of the most fashionable people waiting for public transit.<br><br>Commercial folio available upon request.</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-e509c1678b251c75b059"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-e509c1678b251c75b059"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h2 style="white-space:pre-wrap;"><em>Latest Project</em></h2>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-718ffc0284f419aa1ee3"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-718ffc0284f419aa1ee3"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="sqsrte-large" style="white-space:pre-wrap;">Transit street photography, <br>Launching early next year</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+        section-height--custom
+      
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    
+    '
+  
+  data-section-id="65e2bd1363807e327ee03174"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+  &quot;customSectionHeight&quot;: 10,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;generative&quot;,
+  &quot;generative&quot;: {
+    &quot;type&quot;: &quot;bokeh&quot;,
+    &quot;seed&quot;: 44,
+    &quot;count&quot;: 2,
+    &quot;size&quot;: 5,
+    &quot;speed&quot;: 50,
+    &quot;backgroundColor&quot;: {
+      &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+      &quot;sitePaletteColor&quot;: {
+        &quot;id&quot;: &quot;accent&quot;,
+        &quot;alpha&quot;: 1.0
+      }
+    },
+    &quot;color1&quot;: {
+      &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+      &quot;sitePaletteColor&quot;: {
+        &quot;id&quot;: &quot;darkAccent&quot;,
+        &quot;alpha&quot;: 1.0
+      }
+    },
+    &quot;color2&quot;: {
+      &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+      &quot;sitePaletteColor&quot;: {
+        &quot;id&quot;: &quot;lightAccent&quot;,
+        &quot;alpha&quot;: 1.0
+      }
+    },
+    &quot;color3&quot;: {
+      &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+      &quot;sitePaletteColor&quot;: {
+        &quot;id&quot;: &quot;white&quot;,
+        &quot;alpha&quot;: 1.0
+      }
+    },
+    &quot;invertColors&quot;: false,
+    &quot;noiseIntensity&quot;: 0,
+    &quot;noiseScale&quot;: 0,
+    &quot;distortionScaleX&quot;: 0,
+    &quot;distortionScaleY&quot;: 0,
+    &quot;distortionSpeed&quot;: 0,
+    &quot;distortionIntensity&quot;: 0,
+    &quot;lightIntensity&quot;: 14,
+    &quot;lightX&quot;: 72,
+    &quot;bevelRotation&quot;: 0,
+    &quot;bevelSize&quot;: 0,
+    &quot;bevelStrength&quot;: 0,
+    &quot;complexity&quot;: 0,
+    &quot;cutoff&quot;: 0,
+    &quot;isBevelEnabled&quot;: false,
+    &quot;isBlurEnabled&quot;: false,
+    &quot;scale&quot;: 0,
+    &quot;speedMorph&quot;: 0,
+    &quot;speedTravel&quot;: 0,
+    &quot;steps&quot;: 0,
+    &quot;travelDirection&quot;: 0,
+    &quot;noiseBias&quot;: 0,
+    &quot;animateNoise&quot;: false,
+    &quot;distortionComplexity&quot;: 0,
+    &quot;distortionDirection&quot;: 0,
+    &quot;distortionMorphSpeed&quot;: 0,
+    &quot;distortionSeed&quot;: 0,
+    &quot;distortionSmoothness&quot;: 0,
+    &quot;linearGradientStartColorDistance&quot;: 0,
+    &quot;linearGradientEndColorDistance&quot;: 0,
+    &quot;linearGradientAngle&quot;: 0,
+    &quot;linearGradientAngleMotion&quot;: 0,
+    &quot;linearGradientRepeat&quot;: 0,
+    &quot;radialGradientRadius&quot;: 0,
+    &quot;radialGradientPositionX&quot;: 0,
+    &quot;radialGradientPositionY&quot;: 0,
+    &quot;radialGradientFollowCursor&quot;: false,
+    &quot;radialGradientFollowSpeed&quot;: 0,
+    &quot;imageScale&quot;: 0,
+    &quot;imageCount&quot;: 0,
+    &quot;patternEnabled&quot;: false,
+    &quot;patternSize&quot;: 0,
+    &quot;patternOffsetX&quot;: 0,
+    &quot;patternOffsetY&quot;: 0,
+    &quot;patternSpaceX&quot;: 0,
+    &quot;patternSpaceY&quot;: 0,
+    &quot;waveEnabled&quot;: false,
+    &quot;waveSpeed&quot;: 0,
+    &quot;waveComplexity&quot;: 0,
+    &quot;waveDepth&quot;: 0,
+    &quot;waveShadowDepth&quot;: 0,
+    &quot;boxSize&quot;: 0.0,
+    &quot;scaleX&quot;: 0,
+    &quot;scaleY&quot;: 0,
+    &quot;scaleZ&quot;: 0,
+    &quot;isMorphEnabled&quot;: false,
+    &quot;lightY&quot;: 0,
+    &quot;lightZ&quot;: 0,
+    &quot;noiseRange&quot;: 0,
+    &quot;positionFactor&quot;: 0,
+    &quot;scaleFactor&quot;: 0,
+    &quot;colorFactor&quot;: 0,
+    &quot;sizeVariance&quot;: 0,
+    &quot;wobble&quot;: 0,
+    &quot;morph&quot;: 0,
+    &quot;scrollMovement&quot;: 0,
+    &quot;patternScaleX&quot;: 0,
+    &quot;patternScaleY&quot;: 0,
+    &quot;patternPowerX&quot;: 0,
+    &quot;patternPowerY&quot;: 0,
+    &quot;patternAmount&quot;: 0,
+    &quot;surfaceHeight&quot;: 0,
+    &quot;colorStop1&quot;: 0,
+    &quot;colorStop2&quot;: 0,
+    &quot;colorStop3&quot;: 0,
+    &quot;colorStop4&quot;: 0,
+    &quot;gradientDistortionX&quot;: 0,
+    &quot;gradientDistortionY&quot;: 0,
+    &quot;curveX&quot;: 0,
+    &quot;curveY&quot;: 0,
+    &quot;curveFunnel&quot;: 0,
+    &quot;fogIntensity&quot;: 0,
+    &quot;repeat&quot;: 0,
+    &quot;rotation&quot;: 0,
+    &quot;rotationSpeed&quot;: 0,
+    &quot;blur&quot;: 0,
+    &quot;complexityY&quot;: 9,
+    &quot;complexityZ&quot;: 18,
+    &quot;amplitudeY&quot;: 55,
+    &quot;amplitudeZ&quot;: 84,
+    &quot;offset&quot;: 99,
+    &quot;lightAngle&quot;: 41,
+    &quot;alpha&quot;: 35
+  }
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: {
+    &quot;enabled&quot;: false
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+     style="min-height: 10vh;" 
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+  <div
+  class="section-background-content"
+  data-controller="BackgroundBokeh"
+  >
+  <div class="section-background-canvas background-fx-canvas"></div>
+</div>
+
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+          
+          
+          padding-top: calc(10vmax / 10); padding-bottom: calc(10vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-65e2bd1363807e327ee03173 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(19,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-65e2bd1363807e327ee03173 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-65e2bd1363807e327ee03173 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(18,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-146a380d93625a02930d {
+    grid-area: 2/2/19/10;
+    z-index: 0;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-146a380d93625a02930d .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-146a380d93625a02930d .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-146a380d93625a02930d {
+      grid-area: 3/5/18/23;
+      z-index: 0;
+
+      
+    }
+
+    .fe-block-146a380d93625a02930d .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-146a380d93625a02930d .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+</style><div class="fluid-engine fe-65e2bd1363807e327ee03173"><div class="fe-block fe-block-146a380d93625a02930d"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-146a380d93625a02930d"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h2 style="text-align:center;white-space:pre-wrap;">“It all begins with an idea. Maybe you want to launch a business. Maybe you want to turn a hobby into something more. Or maybe you have a creative project to share with the world. Whatever it is, the way you tell your story online can make all the difference.”</h2><p style="text-align:center;white-space:pre-wrap;" class="">— Quote Source</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div></div></div>
+    </div>
+  
+    <button class='background-pause-button' aria-label=""></button>
+<button class='background-pause-button paused' aria-label=""></button>
+
+  
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>home</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>0</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/editorialstyling</link>
+      <title>Editorial Styling</title>
+      <pubDate>Sat, 02 Mar 2024 05:32:15 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" id="sections" data-page-sections="65e2b9dfa355437007496d94">
+  
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="white-bold"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--small
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    white-bold'
+  
+  data-section-id="65e2b9dfa355437007496d98"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+  &quot;customSectionHeight&quot;: 1,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;backgroundColor&quot;: &quot;&quot;,
+  &quot;sectionTheme&quot;: &quot;white-bold&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+    
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-65e2b9dfa355437007496d97 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(52,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-65e2b9dfa355437007496d97 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-65e2b9dfa355437007496d97 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(62,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-4e633b6cf00623f12ad5 {
+    grid-area: 1/2/4/10;
+    z-index: 2;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-4e633b6cf00623f12ad5 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-4e633b6cf00623f12ad5 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-4e633b6cf00623f12ad5 {
+      grid-area: 1/2/5/14;
+      z-index: 2;
+
+      
+    }
+
+    .fe-block-4e633b6cf00623f12ad5 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-4e633b6cf00623f12ad5 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-e127113ac2294a4d3e63 {
+    grid-area: 4/2/17/10;
+    z-index: 1;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-e127113ac2294a4d3e63 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-e127113ac2294a4d3e63 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-e127113ac2294a4d3e63 {
+      grid-area: 1/14/23/26;
+      z-index: 1;
+
+      
+    }
+
+    .fe-block-e127113ac2294a4d3e63 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-e127113ac2294a4d3e63 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-982ef860ca9272eae6c1 {
+    grid-area: 17/2/23/10;
+    z-index: 3;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-982ef860ca9272eae6c1 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-982ef860ca9272eae6c1 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-982ef860ca9272eae6c1 {
+      grid-area: 6/2/13/13;
+      z-index: 3;
+
+      
+    }
+
+    .fe-block-982ef860ca9272eae6c1 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-982ef860ca9272eae6c1 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-f722f00b39674bbc3981 {
+    grid-area: 25/2/27/10;
+    z-index: 5;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-f722f00b39674bbc3981 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-f722f00b39674bbc3981 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-f722f00b39674bbc3981 {
+      grid-area: 21/2/23/8;
+      z-index: 5;
+
+      
+    }
+
+    .fe-block-f722f00b39674bbc3981 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-f722f00b39674bbc3981 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-894bb940adfc58a41055 {
+    grid-area: 27/2/35/10;
+    z-index: 2;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-894bb940adfc58a41055 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-894bb940adfc58a41055 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-894bb940adfc58a41055 {
+      grid-area: 45/9/61/26;
+      z-index: 2;
+
+      
+    }
+
+    .fe-block-894bb940adfc58a41055 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-894bb940adfc58a41055 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-52d89b498f2746113f49 {
+    grid-area: 35/2/37/10;
+    z-index: 4;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-52d89b498f2746113f49 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-52d89b498f2746113f49 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-52d89b498f2746113f49 {
+      grid-area: 43/2/45/8;
+      z-index: 4;
+
+      
+    }
+
+    .fe-block-52d89b498f2746113f49 .sqs-block {
+      justify-content: flex-end;
+    }
+
+    .fe-block-52d89b498f2746113f49 .sqs-block-alignment-wrapper {
+      align-items: flex-end;
+    }
+  }
+
+  .fe-block-57cb89f384068e2fe5cc {
+    grid-area: 38/2/52/10;
+    z-index: 2;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-57cb89f384068e2fe5cc .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-57cb89f384068e2fe5cc .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-57cb89f384068e2fe5cc {
+      grid-area: 23/14/45/26;
+      z-index: 2;
+
+      
+    }
+
+    .fe-block-57cb89f384068e2fe5cc .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-57cb89f384068e2fe5cc .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+</style><div class="fluid-engine fe-65e2b9dfa355437007496d97"><div class="fe-block fe-block-4e633b6cf00623f12ad5"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-4e633b6cf00623f12ad5"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <pre><code>Editorial  Styling</code></pre>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-e127113ac2294a4d3e63"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-aspect-ratio="127.31138010325826" data-block-type="5" id="block-e127113ac2294a4d3e63"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fill">
+                
+            
+            
+            
+            
+            
+            
+            <img data-stretch="true" src="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/77053b01-6a5b-48ae-aecf-6661cec4afe9/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/77053b01-6a5b-48ae-aecf-6661cec4afe9/image-asset.jpeg" data-image-dimensions="1555x2500" data-image-focal-point="0.5,0.5" alt="the back of a woman with her jacket hanging from her shoulders" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/77053b01-6a5b-48ae-aecf-6661cec4afe9/image-asset.jpeg" width="1555" height="2500" alt="" sizes="100vw" style="display:block;object-fit: cover; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/77053b01-6a5b-48ae-aecf-6661cec4afe9/image-asset.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/77053b01-6a5b-48ae-aecf-6661cec4afe9/image-asset.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/77053b01-6a5b-48ae-aecf-6661cec4afe9/image-asset.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/77053b01-6a5b-48ae-aecf-6661cec4afe9/image-asset.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/77053b01-6a5b-48ae-aecf-6661cec4afe9/image-asset.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/77053b01-6a5b-48ae-aecf-6661cec4afe9/image-asset.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/77053b01-6a5b-48ae-aecf-6661cec4afe9/image-asset.jpeg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      .sqs-block-image .sqs-block-content {
+        height: 100%;
+        width: 100%;
+      }
+
+      
+        .fe-block-e127113ac2294a4d3e63 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-982ef860ca9272eae6c1"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-982ef860ca9272eae6c1"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="sqsrte-large" style="white-space:pre-wrap;">It all begins with an idea. Maybe you want to launch a business. Maybe you want to turn a hobby into something more. Or maybe you have a creative project to share with the world. Whatever it is, the way you tell your story online can make all the difference.</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-f722f00b39674bbc3981"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-f722f00b39674bbc3981"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="sqsrte-large" style="white-space:pre-wrap;">Project Date<br>Location</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-894bb940adfc58a41055"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-aspect-ratio="60.28116859351116" data-block-type="5" id="block-894bb940adfc58a41055"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fill">
+                
+            
+            
+            
+            
+            
+            
+            <img data-stretch="true" src="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/a6ae607c-40ab-45b4-9973-5809920011dd/04.jpg" data-image="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/a6ae607c-40ab-45b4-9973-5809920011dd/04.jpg" data-image-dimensions="2500x1377" data-image-focal-point="0.5,0.5" alt="woman slouching on a stool in a long belted khaki jacket" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/a6ae607c-40ab-45b4-9973-5809920011dd/04.jpg" width="2500" height="1377" alt="" sizes="100vw" style="display:block;object-fit: cover; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/a6ae607c-40ab-45b4-9973-5809920011dd/04.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/a6ae607c-40ab-45b4-9973-5809920011dd/04.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/a6ae607c-40ab-45b4-9973-5809920011dd/04.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/a6ae607c-40ab-45b4-9973-5809920011dd/04.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/a6ae607c-40ab-45b4-9973-5809920011dd/04.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/a6ae607c-40ab-45b4-9973-5809920011dd/04.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/a6ae607c-40ab-45b4-9973-5809920011dd/04.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      .sqs-block-image .sqs-block-content {
+        height: 100%;
+        width: 100%;
+      }
+
+      
+        .fe-block-894bb940adfc58a41055 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-52d89b498f2746113f49"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-52d89b498f2746113f49"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="sqsrte-small" style="white-space:pre-wrap;">Photography credit name<br>Make up credit name <br>Publication credit name</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-57cb89f384068e2fe5cc"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-aspect-ratio="127.31138010325826" data-block-type="5" id="block-57cb89f384068e2fe5cc"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fill">
+                
+            
+            
+            
+            
+            
+            
+            <img data-stretch="true" src="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/3ca53373-02e2-4804-b9d5-df5ad2104a4c/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/3ca53373-02e2-4804-b9d5-df5ad2104a4c/image-asset.jpeg" data-image-dimensions="1675x2500" data-image-focal-point="0.5,0.5" alt="close up of a woman slouching on a stool in a long belted khaki jacket" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/3ca53373-02e2-4804-b9d5-df5ad2104a4c/image-asset.jpeg" width="1675" height="2500" alt="" sizes="100vw" style="display:block;object-fit: cover; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/3ca53373-02e2-4804-b9d5-df5ad2104a4c/image-asset.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/3ca53373-02e2-4804-b9d5-df5ad2104a4c/image-asset.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/3ca53373-02e2-4804-b9d5-df5ad2104a4c/image-asset.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/3ca53373-02e2-4804-b9d5-df5ad2104a4c/image-asset.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/3ca53373-02e2-4804-b9d5-df5ad2104a4c/image-asset.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/3ca53373-02e2-4804-b9d5-df5ad2104a4c/image-asset.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/3ca53373-02e2-4804-b9d5-df5ad2104a4c/image-asset.jpeg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      .sqs-block-image .sqs-block-content {
+        height: 100%;
+        width: 100%;
+      }
+
+      
+        .fe-block-57cb89f384068e2fe5cc .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="white-bold"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--small
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    white-bold'
+  
+  data-section-id="65e2b9dfa355437007496d9b"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+  &quot;customSectionHeight&quot;: 1,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;backgroundColor&quot;: &quot;&quot;,
+  &quot;sectionTheme&quot;: &quot;white-bold&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+    
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-65e2b9dfa355437007496d9a {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(14,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-65e2b9dfa355437007496d9a {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-65e2b9dfa355437007496d9a {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(9,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-b08e4c1a897c520c11e6 {
+    grid-area: 1/2/3/10;
+    z-index: 7;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-b08e4c1a897c520c11e6 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-b08e4c1a897c520c11e6 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-b08e4c1a897c520c11e6 {
+      grid-area: 1/2/3/8;
+      z-index: 7;
+
+      
+    }
+
+    .fe-block-b08e4c1a897c520c11e6 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-b08e4c1a897c520c11e6 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-6c39bea77000d7ec3974 {
+    grid-area: 9/2/13/6;
+    z-index: 14;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-6c39bea77000d7ec3974 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-6c39bea77000d7ec3974 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-6c39bea77000d7ec3974 {
+      grid-area: 4/22/8/26;
+      z-index: 14;
+
+      
+    }
+
+    .fe-block-6c39bea77000d7ec3974 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-6c39bea77000d7ec3974 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-a406b9ab38bbc644400a {
+    grid-area: 13/2/14/6;
+    z-index: 16;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-a406b9ab38bbc644400a .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-a406b9ab38bbc644400a .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-a406b9ab38bbc644400a {
+      grid-area: 8/22/9/26;
+      z-index: 16;
+
+      
+    }
+
+    .fe-block-a406b9ab38bbc644400a .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-a406b9ab38bbc644400a .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-ec330c27381bb8cf2181 {
+    grid-area: 3/6/7/10;
+    z-index: 11;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-ec330c27381bb8cf2181 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-ec330c27381bb8cf2181 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-ec330c27381bb8cf2181 {
+      grid-area: 4/10/8/14;
+      z-index: 11;
+
+      
+    }
+
+    .fe-block-ec330c27381bb8cf2181 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-ec330c27381bb8cf2181 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-2b21ef98f118175501a2 {
+    grid-area: 3/2/7/6;
+    z-index: 8;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-2b21ef98f118175501a2 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-2b21ef98f118175501a2 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-2b21ef98f118175501a2 {
+      grid-area: 4/2/8/6;
+      z-index: 8;
+
+      
+    }
+
+    .fe-block-2b21ef98f118175501a2 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-2b21ef98f118175501a2 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-5859044003885eaf6bf1 {
+    grid-area: 7/6/8/10;
+    z-index: 15;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-5859044003885eaf6bf1 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-5859044003885eaf6bf1 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-5859044003885eaf6bf1 {
+      grid-area: 8/10/9/14;
+      z-index: 15;
+
+      
+    }
+
+    .fe-block-5859044003885eaf6bf1 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-5859044003885eaf6bf1 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-866d97e607c20f15870c {
+    grid-area: 7/2/8/6;
+    z-index: 14;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-866d97e607c20f15870c .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-866d97e607c20f15870c .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-866d97e607c20f15870c {
+      grid-area: 8/2/9/6;
+      z-index: 14;
+
+      
+    }
+
+    .fe-block-866d97e607c20f15870c .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-866d97e607c20f15870c .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-65e2b9dfa355437007496d9a"><div class="fe-block fe-block-b08e4c1a897c520c11e6"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-b08e4c1a897c520c11e6"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h2 style="white-space:pre-wrap;"><a href="/selectworks"><em>Select Works</em></a></h2>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-6c39bea77000d7ec3974"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-aspect-ratio="67.45435016111708" data-block-type="5" id="block-6c39bea77000d7ec3974"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            <a
+              class="sqs-block-image-link content-fill"
+              href="/203issue"
+              
+            >
+              
+            
+            
+            
+            
+            
+            
+            <img data-stretch="true" src="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/012fae2d-bdb1-4df9-a59c-8376ef4460f1/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/012fae2d-bdb1-4df9-a59c-8376ef4460f1/image-asset.jpeg" data-image-dimensions="1667x2500" data-image-focal-point="0.5,0.5" alt="woman in a black dress lying on the concrete ground outside" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/012fae2d-bdb1-4df9-a59c-8376ef4460f1/image-asset.jpeg" width="1667" height="2500" alt="" sizes="100vw" style="display:block;object-fit: cover; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/012fae2d-bdb1-4df9-a59c-8376ef4460f1/image-asset.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/012fae2d-bdb1-4df9-a59c-8376ef4460f1/image-asset.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/012fae2d-bdb1-4df9-a59c-8376ef4460f1/image-asset.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/012fae2d-bdb1-4df9-a59c-8376ef4460f1/image-asset.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/012fae2d-bdb1-4df9-a59c-8376ef4460f1/image-asset.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/012fae2d-bdb1-4df9-a59c-8376ef4460f1/image-asset.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/012fae2d-bdb1-4df9-a59c-8376ef4460f1/image-asset.jpeg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+            </a>
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      .sqs-block-image .sqs-block-content {
+        height: 100%;
+        width: 100%;
+      }
+
+      
+        .fe-block-6c39bea77000d7ec3974 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-a406b9ab38bbc644400a"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-a406b9ab38bbc644400a"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="sqsrte-small" style="white-space:pre-wrap;">203 Issue</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-ec330c27381bb8cf2181"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-aspect-ratio="67.45435016111708" data-block-type="5" id="block-ec330c27381bb8cf2181"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            <a
+              class="sqs-block-image-link content-fill"
+              href="/streetstyle"
+              
+            >
+              
+            
+            
+            
+            
+            
+            
+            <img data-stretch="true" src="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/d548cdc5-8865-4aa3-beb8-bc2cd756096b/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/d548cdc5-8865-4aa3-beb8-bc2cd756096b/image-asset.jpeg" data-image-dimensions="1278x1800" data-image-focal-point="0.5,0.5" alt="woman in a grey suit walking away in front of a concrete building" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/d548cdc5-8865-4aa3-beb8-bc2cd756096b/image-asset.jpeg" width="1278" height="1800" alt="" sizes="100vw" style="display:block;object-fit: cover; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/d548cdc5-8865-4aa3-beb8-bc2cd756096b/image-asset.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/d548cdc5-8865-4aa3-beb8-bc2cd756096b/image-asset.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/d548cdc5-8865-4aa3-beb8-bc2cd756096b/image-asset.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/d548cdc5-8865-4aa3-beb8-bc2cd756096b/image-asset.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/d548cdc5-8865-4aa3-beb8-bc2cd756096b/image-asset.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/d548cdc5-8865-4aa3-beb8-bc2cd756096b/image-asset.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/d548cdc5-8865-4aa3-beb8-bc2cd756096b/image-asset.jpeg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+            </a>
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      .sqs-block-image .sqs-block-content {
+        height: 100%;
+        width: 100%;
+      }
+
+      
+        .fe-block-ec330c27381bb8cf2181 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-2b21ef98f118175501a2"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-aspect-ratio="67.45435016111708" data-block-type="5" id="block-2b21ef98f118175501a2"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            <a
+              class="sqs-block-image-link content-fill"
+              href="/sqspmagazine"
+              
+            >
+              
+            
+            
+            
+            
+            
+            
+            <img data-stretch="true" src="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/1ee4c237-7f37-45dd-95ae-7a5bf9079884/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/1ee4c237-7f37-45dd-95ae-7a5bf9079884/image-asset.jpeg" data-image-dimensions="1667x2500" data-image-focal-point="0.5,0.5" alt="woman outside waving her beige linen jacket." data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/1ee4c237-7f37-45dd-95ae-7a5bf9079884/image-asset.jpeg" width="1667" height="2500" alt="" sizes="100vw" style="display:block;object-fit: cover; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/1ee4c237-7f37-45dd-95ae-7a5bf9079884/image-asset.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/1ee4c237-7f37-45dd-95ae-7a5bf9079884/image-asset.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/1ee4c237-7f37-45dd-95ae-7a5bf9079884/image-asset.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/1ee4c237-7f37-45dd-95ae-7a5bf9079884/image-asset.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/1ee4c237-7f37-45dd-95ae-7a5bf9079884/image-asset.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/1ee4c237-7f37-45dd-95ae-7a5bf9079884/image-asset.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/1ee4c237-7f37-45dd-95ae-7a5bf9079884/image-asset.jpeg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+            </a>
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      .sqs-block-image .sqs-block-content {
+        height: 100%;
+        width: 100%;
+      }
+
+      
+        .fe-block-2b21ef98f118175501a2 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-5859044003885eaf6bf1"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-5859044003885eaf6bf1"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="sqsrte-small" style="white-space:pre-wrap;">Street Photography</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-866d97e607c20f15870c"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-866d97e607c20f15870c"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="sqsrte-small" style="white-space:pre-wrap;">SQSP Magazine</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>editorialstyling</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>1</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/streetstyle</link>
+      <title>Street Style</title>
+      <pubDate>Sat, 02 Mar 2024 05:41:11 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" id="sections" data-page-sections="65e2bbf7a873b47bd010edfd">
+  
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="white-bold"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--small
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    white-bold'
+  
+  data-section-id="65e2bbf7a873b47bd010ee01"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+  &quot;customSectionHeight&quot;: 1,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;backgroundColor&quot;: &quot;&quot;,
+  &quot;sectionTheme&quot;: &quot;white-bold&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+    
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-65e2bbf7a873b47bd010ee00 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(68,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-65e2bbf7a873b47bd010ee00 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-65e2bbf7a873b47bd010ee00 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(66,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-e08e1c32972a21624f68 {
+    grid-area: 1/2/3/10;
+    z-index: 2;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-e08e1c32972a21624f68 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-e08e1c32972a21624f68 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-e08e1c32972a21624f68 {
+      grid-area: 1/2/3/14;
+      z-index: 2;
+
+      
+    }
+
+    .fe-block-e08e1c32972a21624f68 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-e08e1c32972a21624f68 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-a1956c277879d633e9d0 {
+    grid-area: 3/2/16/10;
+    z-index: 1;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-a1956c277879d633e9d0 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-a1956c277879d633e9d0 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-a1956c277879d633e9d0 {
+      grid-area: 1/14/23/26;
+      z-index: 1;
+
+      
+    }
+
+    .fe-block-a1956c277879d633e9d0 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-a1956c277879d633e9d0 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-c7464ff0fa2481c13d1e {
+    grid-area: 16/2/22/10;
+    z-index: 3;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-c7464ff0fa2481c13d1e .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-c7464ff0fa2481c13d1e .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-c7464ff0fa2481c13d1e {
+      grid-area: 4/2/11/13;
+      z-index: 3;
+
+      
+    }
+
+    .fe-block-c7464ff0fa2481c13d1e .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-c7464ff0fa2481c13d1e .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-a3645caa50eb6c7d3a3d {
+    grid-area: 23/2/25/10;
+    z-index: 5;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-a3645caa50eb6c7d3a3d .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-a3645caa50eb6c7d3a3d .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-a3645caa50eb6c7d3a3d {
+      grid-area: 19/2/21/8;
+      z-index: 5;
+
+      
+    }
+
+    .fe-block-a3645caa50eb6c7d3a3d .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-a3645caa50eb6c7d3a3d .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-ca2f40764338ca9a2627 {
+    grid-area: 25/2/39/10;
+    z-index: 2;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-ca2f40764338ca9a2627 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-ca2f40764338ca9a2627 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-ca2f40764338ca9a2627 {
+      grid-area: 23/14/45/26;
+      z-index: 2;
+
+      
+    }
+
+    .fe-block-ca2f40764338ca9a2627 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-ca2f40764338ca9a2627 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-c2d7698409ba1bee8bd1 {
+    grid-area: 39/2/41/10;
+    z-index: 4;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-c2d7698409ba1bee8bd1 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-c2d7698409ba1bee8bd1 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-c2d7698409ba1bee8bd1 {
+      grid-area: 45/2/47/8;
+      z-index: 4;
+
+      
+    }
+
+    .fe-block-c2d7698409ba1bee8bd1 .sqs-block {
+      justify-content: flex-end;
+    }
+
+    .fe-block-c2d7698409ba1bee8bd1 .sqs-block-alignment-wrapper {
+      align-items: flex-end;
+    }
+  }
+
+  .fe-block-543be260a08947e72607 {
+    grid-area: 41/2/55/10;
+    z-index: 3;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-543be260a08947e72607 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-543be260a08947e72607 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-543be260a08947e72607 {
+      grid-area: 23/2/45/14;
+      z-index: 3;
+
+      
+    }
+
+    .fe-block-543be260a08947e72607 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-543be260a08947e72607 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-3ac818082c63ec2ed965 {
+    grid-area: 55/2/69/10;
+    z-index: 3;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-3ac818082c63ec2ed965 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-3ac818082c63ec2ed965 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-3ac818082c63ec2ed965 {
+      grid-area: 45/14/67/26;
+      z-index: 3;
+
+      
+    }
+
+    .fe-block-3ac818082c63ec2ed965 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-3ac818082c63ec2ed965 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+</style><div class="fluid-engine fe-65e2bbf7a873b47bd010ee00"><div class="fe-block fe-block-e08e1c32972a21624f68"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-e08e1c32972a21624f68"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <pre><code>Street style</code></pre>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-a1956c277879d633e9d0"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-aspect-ratio="127.31138010325826" data-block-type="5" id="block-a1956c277879d633e9d0"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fill">
+                
+            
+            
+            
+            
+            
+            
+            <img data-stretch="true" src="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/d548cdc5-8865-4aa3-beb8-bc2cd756096b/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/d548cdc5-8865-4aa3-beb8-bc2cd756096b/image-asset.jpeg" data-image-dimensions="1278x1800" data-image-focal-point="0.5,0.5" alt="woman slouching on a stool in a long belted khaki jacket" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/d548cdc5-8865-4aa3-beb8-bc2cd756096b/image-asset.jpeg" width="1278" height="1800" alt="" sizes="100vw" style="display:block;object-fit: cover; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/d548cdc5-8865-4aa3-beb8-bc2cd756096b/image-asset.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/d548cdc5-8865-4aa3-beb8-bc2cd756096b/image-asset.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/d548cdc5-8865-4aa3-beb8-bc2cd756096b/image-asset.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/d548cdc5-8865-4aa3-beb8-bc2cd756096b/image-asset.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/d548cdc5-8865-4aa3-beb8-bc2cd756096b/image-asset.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/d548cdc5-8865-4aa3-beb8-bc2cd756096b/image-asset.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/d548cdc5-8865-4aa3-beb8-bc2cd756096b/image-asset.jpeg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      .sqs-block-image .sqs-block-content {
+        height: 100%;
+        width: 100%;
+      }
+
+      
+        .fe-block-a1956c277879d633e9d0 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-c7464ff0fa2481c13d1e"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-c7464ff0fa2481c13d1e"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="sqsrte-large" style="white-space:pre-wrap;">It all begins with an idea. Maybe you want to launch a business. Maybe you want to turn a hobby into something more. Or maybe you have a creative project to share with the world. Whatever it is, the way you tell your story online can make all the difference.</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-a3645caa50eb6c7d3a3d"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-a3645caa50eb6c7d3a3d"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="sqsrte-large" style="white-space:pre-wrap;">Project Date<br>Location</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-ca2f40764338ca9a2627"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-aspect-ratio="127.31138010325826" data-block-type="5" id="block-ca2f40764338ca9a2627"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fill">
+                
+            
+            
+            
+            
+            
+            
+            <img data-stretch="true" src="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/a03d5e89-1166-49d5-a454-cfc676cc6209/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/a03d5e89-1166-49d5-a454-cfc676cc6209/image-asset.jpeg" data-image-dimensions="1667x2500" data-image-focal-point="0.5,0.5" alt="woman holding up a shield to block out the sun near a concrete building" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/a03d5e89-1166-49d5-a454-cfc676cc6209/image-asset.jpeg" width="1667" height="2500" alt="" sizes="100vw" style="display:block;object-fit: cover; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/a03d5e89-1166-49d5-a454-cfc676cc6209/image-asset.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/a03d5e89-1166-49d5-a454-cfc676cc6209/image-asset.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/a03d5e89-1166-49d5-a454-cfc676cc6209/image-asset.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/a03d5e89-1166-49d5-a454-cfc676cc6209/image-asset.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/a03d5e89-1166-49d5-a454-cfc676cc6209/image-asset.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/a03d5e89-1166-49d5-a454-cfc676cc6209/image-asset.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/a03d5e89-1166-49d5-a454-cfc676cc6209/image-asset.jpeg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      .sqs-block-image .sqs-block-content {
+        height: 100%;
+        width: 100%;
+      }
+
+      
+        .fe-block-ca2f40764338ca9a2627 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-c2d7698409ba1bee8bd1"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-c2d7698409ba1bee8bd1"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="sqsrte-small" style="white-space:pre-wrap;">Photography credit name<br>Make up credit name <br>Publication credit name</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-543be260a08947e72607"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-aspect-ratio="127.31690385282887" data-block-type="5" id="block-543be260a08947e72607"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fill">
+                
+            
+            
+            
+            
+            
+            
+            <img data-stretch="true" src="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/63404ed0-5f07-4c4e-ad6b-8ac5b09a7f37/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/63404ed0-5f07-4c4e-ad6b-8ac5b09a7f37/image-asset.jpeg" data-image-dimensions="1653x2500" data-image-focal-point="0.5,0.5" alt="portrait of a woman with an orange veil over her face" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/63404ed0-5f07-4c4e-ad6b-8ac5b09a7f37/image-asset.jpeg" width="1653" height="2500" alt="" sizes="100vw" style="display:block;object-fit: cover; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/63404ed0-5f07-4c4e-ad6b-8ac5b09a7f37/image-asset.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/63404ed0-5f07-4c4e-ad6b-8ac5b09a7f37/image-asset.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/63404ed0-5f07-4c4e-ad6b-8ac5b09a7f37/image-asset.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/63404ed0-5f07-4c4e-ad6b-8ac5b09a7f37/image-asset.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/63404ed0-5f07-4c4e-ad6b-8ac5b09a7f37/image-asset.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/63404ed0-5f07-4c4e-ad6b-8ac5b09a7f37/image-asset.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/63404ed0-5f07-4c4e-ad6b-8ac5b09a7f37/image-asset.jpeg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      .sqs-block-image .sqs-block-content {
+        height: 100%;
+        width: 100%;
+      }
+
+      
+        .fe-block-543be260a08947e72607 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-3ac818082c63ec2ed965"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-aspect-ratio="127.31138010325826" data-block-type="5" id="block-3ac818082c63ec2ed965"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fill">
+                
+            
+            
+            
+            
+            
+            
+            <img data-stretch="true" src="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/fe7277ae-c2f0-4ca6-ac74-c9f23acb10a5/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/fe7277ae-c2f0-4ca6-ac74-c9f23acb10a5/image-asset.jpeg" data-image-dimensions="1602x2500" data-image-focal-point="0.5,0.5" alt="portrait of a woman with a black veil" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/fe7277ae-c2f0-4ca6-ac74-c9f23acb10a5/image-asset.jpeg" width="1602" height="2500" alt="" sizes="100vw" style="display:block;object-fit: cover; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/fe7277ae-c2f0-4ca6-ac74-c9f23acb10a5/image-asset.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/fe7277ae-c2f0-4ca6-ac74-c9f23acb10a5/image-asset.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/fe7277ae-c2f0-4ca6-ac74-c9f23acb10a5/image-asset.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/fe7277ae-c2f0-4ca6-ac74-c9f23acb10a5/image-asset.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/fe7277ae-c2f0-4ca6-ac74-c9f23acb10a5/image-asset.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/fe7277ae-c2f0-4ca6-ac74-c9f23acb10a5/image-asset.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/fe7277ae-c2f0-4ca6-ac74-c9f23acb10a5/image-asset.jpeg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      .sqs-block-image .sqs-block-content {
+        height: 100%;
+        width: 100%;
+      }
+
+      
+        .fe-block-3ac818082c63ec2ed965 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="white-bold"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--small
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    white-bold'
+  
+  data-section-id="65e2bbf7a873b47bd010ee04"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+  &quot;customSectionHeight&quot;: 1,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;backgroundColor&quot;: &quot;&quot;,
+  &quot;sectionTheme&quot;: &quot;white-bold&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+    
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-65e2bbf7a873b47bd010ee03 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(14,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-65e2bbf7a873b47bd010ee03 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-65e2bbf7a873b47bd010ee03 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(8,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-b3fde494ea890d5c7f44 {
+    grid-area: 1/2/3/10;
+    z-index: 7;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-b3fde494ea890d5c7f44 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-b3fde494ea890d5c7f44 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-b3fde494ea890d5c7f44 {
+      grid-area: 1/2/3/8;
+      z-index: 7;
+
+      
+    }
+
+    .fe-block-b3fde494ea890d5c7f44 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-b3fde494ea890d5c7f44 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-c37d9e7b2bd8763e389a {
+    grid-area: 7/2/8/6;
+    z-index: 14;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-c37d9e7b2bd8763e389a .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-c37d9e7b2bd8763e389a .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-c37d9e7b2bd8763e389a {
+      grid-area: 8/2/9/6;
+      z-index: 14;
+
+      
+    }
+
+    .fe-block-c37d9e7b2bd8763e389a .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-c37d9e7b2bd8763e389a .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-b7018bf8595c1abbfa26 {
+    grid-area: 7/6/8/11;
+    z-index: 15;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-b7018bf8595c1abbfa26 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-b7018bf8595c1abbfa26 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-b7018bf8595c1abbfa26 {
+      grid-area: 8/10/9/14;
+      z-index: 15;
+
+      
+    }
+
+    .fe-block-b7018bf8595c1abbfa26 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-b7018bf8595c1abbfa26 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-ab7198bb52d4f5510fca {
+    grid-area: 9/2/13/6;
+    z-index: 14;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-ab7198bb52d4f5510fca .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-ab7198bb52d4f5510fca .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-ab7198bb52d4f5510fca {
+      grid-area: 4/22/8/26;
+      z-index: 14;
+
+      
+    }
+
+    .fe-block-ab7198bb52d4f5510fca .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-ab7198bb52d4f5510fca .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-f624ff8e699f7371ea9c {
+    grid-area: 13/2/14/6;
+    z-index: 16;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-f624ff8e699f7371ea9c .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-f624ff8e699f7371ea9c .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-f624ff8e699f7371ea9c {
+      grid-area: 8/22/9/26;
+      z-index: 16;
+
+      
+    }
+
+    .fe-block-f624ff8e699f7371ea9c .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-f624ff8e699f7371ea9c .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-807401571464c93daa1d {
+    grid-area: 3/6/7/10;
+    z-index: 11;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-807401571464c93daa1d .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-807401571464c93daa1d .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-807401571464c93daa1d {
+      grid-area: 4/10/8/14;
+      z-index: 11;
+
+      
+    }
+
+    .fe-block-807401571464c93daa1d .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-807401571464c93daa1d .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-a489b982a5b2e9a8d68e {
+    grid-area: 3/2/7/6;
+    z-index: 8;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-a489b982a5b2e9a8d68e .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-a489b982a5b2e9a8d68e .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-a489b982a5b2e9a8d68e {
+      grid-area: 4/2/8/6;
+      z-index: 8;
+
+      
+    }
+
+    .fe-block-a489b982a5b2e9a8d68e .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-a489b982a5b2e9a8d68e .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+</style><div class="fluid-engine fe-65e2bbf7a873b47bd010ee03"><div class="fe-block fe-block-b3fde494ea890d5c7f44"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-b3fde494ea890d5c7f44"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h2 style="white-space:pre-wrap;"><a href="/selectworks"><em>Select Works</em></a></h2>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-c37d9e7b2bd8763e389a"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-c37d9e7b2bd8763e389a"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="sqsrte-small" style="white-space:pre-wrap;">Editorial Styling</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-b7018bf8595c1abbfa26"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-b7018bf8595c1abbfa26"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="sqsrte-small" style="white-space:pre-wrap;">SQSP Magazine</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-ab7198bb52d4f5510fca"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-aspect-ratio="67.45435016111708" data-block-type="5" id="block-ab7198bb52d4f5510fca"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            <a
+              class="sqs-block-image-link content-fill"
+              href="/203issue"
+              
+            >
+              
+            
+            
+            
+            
+            
+            
+            <img data-stretch="true" src="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/012fae2d-bdb1-4df9-a59c-8376ef4460f1/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/012fae2d-bdb1-4df9-a59c-8376ef4460f1/image-asset.jpeg" data-image-dimensions="1667x2500" data-image-focal-point="0.5,0.5" alt="woman in a black dress lying on the concrete ground outside" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/012fae2d-bdb1-4df9-a59c-8376ef4460f1/image-asset.jpeg" width="1667" height="2500" alt="" sizes="100vw" style="display:block;object-fit: cover; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/012fae2d-bdb1-4df9-a59c-8376ef4460f1/image-asset.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/012fae2d-bdb1-4df9-a59c-8376ef4460f1/image-asset.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/012fae2d-bdb1-4df9-a59c-8376ef4460f1/image-asset.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/012fae2d-bdb1-4df9-a59c-8376ef4460f1/image-asset.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/012fae2d-bdb1-4df9-a59c-8376ef4460f1/image-asset.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/012fae2d-bdb1-4df9-a59c-8376ef4460f1/image-asset.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/012fae2d-bdb1-4df9-a59c-8376ef4460f1/image-asset.jpeg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+            </a>
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      .sqs-block-image .sqs-block-content {
+        height: 100%;
+        width: 100%;
+      }
+
+      
+        .fe-block-ab7198bb52d4f5510fca .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-f624ff8e699f7371ea9c"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-f624ff8e699f7371ea9c"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="sqsrte-small" style="white-space:pre-wrap;">203 Issue</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-807401571464c93daa1d"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-aspect-ratio="67.45435016111708" data-block-type="5" id="block-807401571464c93daa1d"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            <a
+              class="sqs-block-image-link content-fill"
+              href="/sqspmagazine"
+              
+            >
+              
+            
+            
+            
+            
+            
+            
+            <img data-stretch="true" src="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/1ee4c237-7f37-45dd-95ae-7a5bf9079884/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/1ee4c237-7f37-45dd-95ae-7a5bf9079884/image-asset.jpeg" data-image-dimensions="1667x2500" data-image-focal-point="0.5,0.5" alt="woman outside waving her beige linen jacket" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/1ee4c237-7f37-45dd-95ae-7a5bf9079884/image-asset.jpeg" width="1667" height="2500" alt="" sizes="100vw" style="display:block;object-fit: cover; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/1ee4c237-7f37-45dd-95ae-7a5bf9079884/image-asset.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/1ee4c237-7f37-45dd-95ae-7a5bf9079884/image-asset.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/1ee4c237-7f37-45dd-95ae-7a5bf9079884/image-asset.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/1ee4c237-7f37-45dd-95ae-7a5bf9079884/image-asset.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/1ee4c237-7f37-45dd-95ae-7a5bf9079884/image-asset.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/1ee4c237-7f37-45dd-95ae-7a5bf9079884/image-asset.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/1ee4c237-7f37-45dd-95ae-7a5bf9079884/image-asset.jpeg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+            </a>
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      .sqs-block-image .sqs-block-content {
+        height: 100%;
+        width: 100%;
+      }
+
+      
+        .fe-block-807401571464c93daa1d .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-a489b982a5b2e9a8d68e"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-aspect-ratio="67.45435016111708" data-block-type="5" id="block-a489b982a5b2e9a8d68e"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            <a
+              class="sqs-block-image-link content-fill"
+              href="/editorialstyling"
+              
+            >
+              
+            
+            
+            
+            
+            
+            
+            <img data-stretch="true" src="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/a6ae607c-40ab-45b4-9973-5809920011dd/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/a6ae607c-40ab-45b4-9973-5809920011dd/image-asset.jpeg" data-image-dimensions="2500x1377" data-image-focal-point="0.5,0.5" alt="woman slouching on a stool in a long belted khaki jacket" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/a6ae607c-40ab-45b4-9973-5809920011dd/image-asset.jpeg" width="2500" height="1377" alt="" sizes="100vw" style="display:block;object-fit: cover; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/a6ae607c-40ab-45b4-9973-5809920011dd/image-asset.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/a6ae607c-40ab-45b4-9973-5809920011dd/image-asset.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/a6ae607c-40ab-45b4-9973-5809920011dd/image-asset.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/a6ae607c-40ab-45b4-9973-5809920011dd/image-asset.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/a6ae607c-40ab-45b4-9973-5809920011dd/image-asset.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/a6ae607c-40ab-45b4-9973-5809920011dd/image-asset.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/63cb4bc4764ff91373380b7d/a6ae607c-40ab-45b4-9973-5809920011dd/image-asset.jpeg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+            </a>
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      .sqs-block-image .sqs-block-content {
+        height: 100%;
+        width: 100%;
+      }
+
+      
+        .fe-block-a489b982a5b2e9a8d68e .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>streetstyle</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>2</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+  </channel>
+</rss>
+
